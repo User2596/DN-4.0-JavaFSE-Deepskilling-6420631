@@ -6,10 +6,10 @@ public class Main {
 		
 		Forecaster fin = new Forecaster();
 		
-		fin.Forecast(25482.46, 0.0695, 13);
-		fin.Forecast(40000, 0.07, 4);
-		fin.Forecast(212491.73, 0.0326, 25);
-		fin.Forecast(18392.14, 0.0839, 11);
+		fin.forecast(25482.46, 0.0695, 13);
+		fin.forecast(40000, 0.07, 4);
+		fin.forecast(212491.73, 0.0326, 25);
+		fin.forecast(18392.14, 0.0839, 11);
 		
 	}
 
