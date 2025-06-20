@@ -40,10 +40,5 @@ git clone https://github.com/User2596/DN-4.0-JavaFSE-Deepskilling-6420631.git
 
 The questions and exercises in this repository are based on the Cognizant Digital Nurture 4.0 Java FSE Deepskilling program materials. The original questions can be found [here](https://github.com/seshadrimr/Digital-Nurture-4.0-JavaFSE).
 
-## Screenshots
-
-Screenshots of outputs are available in the `Output/` directory.
-
----
 
 *This repository is for educational purposes as part of the Java FSE Deepskilling program.*
