@@ -30,38 +30,61 @@ git clone https://github.com/User2596/DN-4.0-JavaFSE-Deepskilling-6420631.git
 ## Course Modules
 
 ### Week 1: Core Java Fundamentals
+
 #### Design Patterns and Principles
+
 - **Singleton Pattern**: Implementation and usage example
 - **Factory Method Pattern**: Demonstrates the Factory Method design pattern for document creation
 
 #### Data Structures and Algorithms
+
 - **E-Commerce Platform Search**: Linear and binary search implementations for product lookup
 - **Financial Forecasting Tool**: Recursive approach to compound growth forecasting
 
-### Week 2: Testing and Logging
-#### JUnit and Mockito
+### Week 2: Testing and Database
+
+#### Unit Testing
+
 - **JUnit 5 Setup**: Basic test configuration and assertions
-- **Mockito Projects**: Mocking, stubbing, and verifying interactions
+- **Mockito Integration**: Mocking, stubbing, and verifying interactions
+
+#### PL/SQL & Logging
+
+- **Control Structures**: PL/SQL programming fundamentals
+- **Stored Procedures**: Database programming
 - **SLF4J Implementation**: Logging framework setup and usage
 
-### Week 3: Enterprise Java
+### Week 3: Spring Framework
+
 #### Spring Core and Maven
+
 - **Basic Spring Configuration**: Core Spring setup and beans
 - **Dependency Injection**: Implementation examples
 - **Maven Project Setup**: Project structure and dependencies
 
 #### Spring Data JPA
+
 - **JPA Quick Example**: Basic entity and repository setup
-- **Hibernate vs JPA**: Practical differences and implementation
-- **Library Management System**: Complete CRUD application example
+- **Hibernate Integration**: Understanding ORM implementation
+- **Spring Data JPA**: Working with repositories and entities
+
+### Week 4: Spring REST & Security
+
+#### RESTful Services
+
+- **Spring Web Project**: Maven-based web application setup
+- **Hello World REST**: Basic REST endpoint implementation
+- **Country Service**: Complete REST API with CRUD operations
+- **Authentication Service**: JWT-based security implementation
 
 ## Project Structure
 
 Each module contains:
+
 - Source code in the respective project folders
 - Documentation and instructions in README files
 - Output screenshots in the Output directory
-- Hands-on exercise documentation in Week*_*_HandsOn.docx files
+- Hands-on exercise documentation in Week*\_*\_HandsOn.docx files
 
 ## Reference Materials
 
@@ -73,4 +96,4 @@ This is an educational repository. While it's primarily for learning purposes, s
 
 ---
 
-*This repository is maintained as part of the Java FSE Deepskilling program. Last updated: July 2025*
+_This repository is maintained as part of the Java FSE Deepskilling program. Last updated: July 2025_
