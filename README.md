@@ -1,6 +1,6 @@
 # DN-4.0-JavaFSE-Deepskilling-6420631
 
-This repository contains hands-on exercises and code samples for Java Full Stack Engineering, focusing on design patterns, principles, data structures & algorithms, and enterprise Java technologies.
+This repository contains hands-on exercises and code samples for Java Full Stack Engineering, focusing on design patterns, principles, data structures & algorithms, and enterprise Java technologies. The course covers everything from core Java fundamentals to microservices architecture using Spring Boot and Spring Cloud.
 
 ## Getting Started
 
@@ -70,12 +70,22 @@ git clone https://github.com/User2596/DN-4.0-JavaFSE-Deepskilling-6420631.git
 
 ### Week 4: Spring REST & Security
 
-#### RESTful Services
+#### RESTful Web Services
 
-- **Spring Web Project**: Maven-based web application setup
-- **Hello World REST**: Basic REST endpoint implementation
-- **Country Service**: Complete REST API with CRUD operations
-- **Authentication Service**: JWT-based security implementation
+- **Spring Web Project**: Maven-based setup
+- **Hello World REST**: Basic endpoint implementation
+- **Country Service**: CRUD operations with REST
+- **JWT Authentication**: Security implementation with JSON Web Tokens
+
+### Week 5: Microservices with Spring Boot & Spring Cloud
+
+#### Microservices Architecture
+
+- **Account & Loan Services**: Implementing domain-specific microservices
+- **Service Registry**: Eureka server implementation
+- **API Gateway**: Spring Cloud Gateway integration
+- **Circuit Breaker Pattern**: Resilience4j implementation
+- **Distributed Configuration**: Spring Cloud Config
 
 ## Project Structure
 
