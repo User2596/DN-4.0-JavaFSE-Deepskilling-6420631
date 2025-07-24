@@ -11,6 +11,8 @@ This repository contains hands-on exercises and code samples for Java Full Stack
 - Git
 - Maven (for Spring Boot projects)
 - MySQL (for database modules)
+- Node.js and npm (for React projects)
+- React Developer Tools (browser extension)
 
 ### Clone the Repository
 
@@ -86,6 +88,16 @@ git clone https://github.com/User2596/DN-4.0-JavaFSE-Deepskilling-6420631.git
 - **API Gateway**: Spring Cloud Gateway integration
 - **Circuit Breaker Pattern**: Resilience4j implementation
 - **Distributed Configuration**: Spring Cloud Config
+
+### Week 6: Frontend Development with React
+
+#### React Fundamentals
+
+- **React Setup**: Creating and configuring React applications
+- **Component Development**: Building functional and class components
+- **State & Props**: Managing component data
+- **Routing & Navigation**: Implementing client-side routing
+- **API Integration**: Connecting React frontend with REST backends
 
 ## Project Structure
 
