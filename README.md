@@ -89,15 +89,25 @@ git clone https://github.com/User2596/DN-4.0-JavaFSE-Deepskilling-6420631.git
 - **Circuit Breaker Pattern**: Resilience4j implementation
 - **Distributed Configuration**: Spring Cloud Config
 
-### Week 6: Frontend Development with React
+### Week 6: React Fundamentals
 
-#### React Fundamentals
+#### Getting Started with React
 
 - **React Setup**: Creating and configuring React applications
 - **Component Development**: Building functional and class components
 - **State & Props**: Managing component data
+- **Events & Forms**: Handling user interactions
+- **Component Lifecycle**: Understanding React component lifecycle
+
+### Week 7: Advanced React Development
+
+#### Advanced Concepts
+
 - **Routing & Navigation**: Implementing client-side routing
 - **API Integration**: Connecting React frontend with REST backends
+- **State Management**: Advanced state handling techniques
+- **React Hooks**: Using useState, useEffect, and custom hooks
+- **React Testing**: Unit testing React components
 
 ## Project Structure
 
@@ -118,4 +128,4 @@ This is an educational repository. While it's primarily for learning purposes, s
 
 ---
 
-_This repository is maintained as part of the Java FSE Deepskilling program. Last updated: July 2025_
+_This repository is maintained as part of the Java FSE Deepskilling program. Last updated: August 2025_
