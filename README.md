@@ -109,6 +109,23 @@ git clone https://github.com/User2596/DN-4.0-JavaFSE-Deepskilling-6420631.git
 - **React Hooks**: Using useState, useEffect, and custom hooks
 - **React Testing**: Unit testing React components
 
+### Week 8: Version Control with Git
+
+#### Git Fundamentals and Hands-On
+
+- **Git Basics**: Introduction to version control and Git concepts
+- **Branching & Merging**: Working with branches and merge operations
+- **Remote Repositories**: Pushing to and pulling from remote repositories
+- **Practical Exercises**: Hands-on Git tasks in multiple demo modules (GitDemo1–GitDemo5)
+
+> **Note:** Week 8 code modules are embedded Git repositories. The remote repository for these demos is available at [https://gitlab.com/githandson6110632/GitDemo](https://gitlab.com/githandson6110632/GitDemo).
+>
+> **Important:** Clones of this main repository will not contain the contents of the embedded repositories and will not know how to obtain them. If you meant to add a submodule, use:
+>
+> ```sh
+> git submodule add https://gitlab.com/githandson6110632/GitDemo
+> ```
+
 ## Project Structure
 
 Each module contains:
